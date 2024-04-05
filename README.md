@@ -134,10 +134,13 @@ while 1:
 
 
 OUTPUT:
+
 CLIENT:
+
 ![image](https://github.com/Nandy-nan/ChatStudy/assets/153698914/1182e258-94bf-43a4-84c7-8024b3fd36fa)
 
 SERVER:
+
 ![Screenshot 2024-04-05 105241](https://github.com/Nandy-nan/ChatStudy/assets/153698914/402f83b0-c3fc-41d1-9985-d53470e09b5f)
 
 
